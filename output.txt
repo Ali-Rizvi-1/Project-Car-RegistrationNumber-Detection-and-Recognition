@@ -1,0 +1,4 @@
+Time stamp: 2022-02-02 08:11:05.022863
+Registration number of car 1 detected: Pz62 FDX with probability 0.8812090313814831
+Time stamp: 2022-02-02 08:11:05.022863
+Registration number of car 2 detected: PZ62FDZ with probability 0.7151727202949163
